@@ -4,7 +4,7 @@ A simplified Myntra clone with a static navbar and a focus on shopping cart func
 
 ## Demo
 
-Check out the live demo [here](#) (replace with your demo link).
+Check out the live demo [here](#) (https://apurwa-rokade.github.io/Myntra_Functional_clone/).
 
 ## Features
 
